@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/dribbble-ds-course/static/css/main.073c9b0a.css",
-    "main.js": "/dribbble-ds-course/static/js/main.8eddb606.js",
+    "main.css": "/dribbble-ds-course/static/css/main.e6c13ad2.css",
+    "main.js": "/dribbble-ds-course/static/js/main.1391be2d.js",
     "static/js/787.c4e7f8f9.chunk.js": "/dribbble-ds-course/static/js/787.c4e7f8f9.chunk.js",
-    "static/media/logo.svg": "/dribbble-ds-course/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/dribbble-ds-course/index.html",
-    "main.073c9b0a.css.map": "/dribbble-ds-course/static/css/main.073c9b0a.css.map",
-    "main.8eddb606.js.map": "/dribbble-ds-course/static/js/main.8eddb606.js.map",
+    "main.e6c13ad2.css.map": "/dribbble-ds-course/static/css/main.e6c13ad2.css.map",
+    "main.1391be2d.js.map": "/dribbble-ds-course/static/js/main.1391be2d.js.map",
     "787.c4e7f8f9.chunk.js.map": "/dribbble-ds-course/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.8eddb606.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1391be2d.js"
   ]
 }
