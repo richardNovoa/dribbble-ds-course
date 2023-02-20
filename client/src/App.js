@@ -1,25 +1,20 @@
-import logo from './logo.svg';
-import './App.css';
-
+import { Button, Result } from 'antd';
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+	return (
+		<div>
+			<Result
+				status='success'
+				title='Success'
+				subTitle='Using the Ant Design System'
+				extra={[
+					<Button type='primary' key='console'>
+						This is
+					</Button>,
+					<Button key='buy'>Cool</Button>
+				]}
+			/>
+		</div>
+	);
 }
 
 export default App;
